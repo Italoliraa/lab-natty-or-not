@@ -21,7 +21,7 @@ Como todo estudante universitário, você provavelmente deseja conquistar o tão
 * Gamma app: Utilizei essa ferraementa para gerar os slides. 
 
 ## 🚀 Objetivo
-* Ajudar todos a dar o primeiro passo para a sua carreira profissional. 
+* Ajudar todos a dar o primeiro passo na sua carreira profissional. 
 
 ## 💭 Reflexão
 Iniciar uma carreira é um dos momentos mais emocionantes e desafiadores na vida de qualquer estudante universitário. A busca pelo estágio ideal, que alinha expectativas e sonhos, representa não apenas o início de uma jornada profissional, mas também o primeiro passo para a realização pessoal. Ao utilizar a tecnologia, como a inteligência artificial, para nos preparar melhor e nos equipar com as informações certas, estamos moldando um futuro onde podemos ser mais confiantes e bem-sucedidos. Refletir sobre essa fase inicial é entender a importância do aprendizado contínuo e da adaptabilidade, qualidades essenciais para qualquer profissional que deseja prosperar em um mundo em constante evolução. Portanto, ao observar as dicas e orientações apresentadas, lembre-se de que cada passo dado agora é um alicerce para as conquistas que estão por vir.
